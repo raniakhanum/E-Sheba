@@ -7,7 +7,7 @@ const Footer = () => {
     <>
       {/* Newsletter Section */}
       <div data-aos="fade-up" data-aos-duration="1500" className="bg-[#1064e6] px-2 py-10 md:py-14 rounded-xl max-w-5xl mx-auto mt-8 md:mt-12 mb-0 md:mb-8">
-        <h2 className="text-white text-2xl md:text-3xl font-bold text-center mb-8 drop-shadow-xs drop-shadow-black">Subscribe To Our Newsletter</h2>
+        <h2 className="text-white text-2xl md:text-3xl font-bold text-center mb-8">Subscribe To Our Newsletter</h2>
         <form className="flex flex-col sm:flex-row items-center justify-center gap-4 max-w-2xl mx-auto bg-white p-3 rounded-full">
           <input
             type="email"
